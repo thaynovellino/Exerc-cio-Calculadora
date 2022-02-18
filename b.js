@@ -1,1 +1,1 @@
-let rodrigo = "Rodrigo da Rocha Santos - Guararema/SP"
+let individuoB = "Rodrigo da Rocha Santos - Guararema/SP"
