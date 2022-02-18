@@ -1,0 +1,2 @@
+let individuoA = 'Thayane, Olinda'
+
